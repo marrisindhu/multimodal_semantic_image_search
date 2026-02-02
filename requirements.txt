@@ -1,0 +1,12 @@
+ipykernel
+transformers
+openai
+chromadb
+Pillow
+torch
+torchvision
+open-clip-torch
+fiftyone
+clip
+# gradio
+streamlit
